@@ -3,13 +3,13 @@
 
 ## Table of Contents
 
-- [Applications](#)(#applications)
-	- [Editors](#)(#editors)
-	- [Email Utilities](#)(#email-utilities)
-	- [Graphics](#)(#graphics)
-	- [Productivity](#)(#productivity)
-	- [Terminal](#)(#terminal)
-	- [Others](#)(#others)
+- [Applications](#applications)
+	- [Editors](#editors)
+	- [Email Utilities](#email-utilities)
+	- [Graphics](#graphics)
+	- [Productivity](#productivity)
+	- [Terminal](#terminal)
+	- [Others](#others)
 
 
 ## Applications
