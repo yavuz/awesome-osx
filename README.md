@@ -9,6 +9,7 @@
 	- [Graphics](#graphics)
 	- [Productivity](#productivity)
 	- [Terminal](#terminal)
+	- [Developers](#developers)
 	- [Others](#others)
 
 
@@ -21,7 +22,7 @@
 - [Light Table](http://lighttable.com/ "Light Table")
 - [Sublime Text 3](http://www.sublimetext.com/3 "Sublime Text 3")
 - [TextMate](https://macromates.com/download "Textmate")
-
+- [Phpstorm](https://www.jetbrains.com/phpstorm/ "Phpstorm") - PHP IDE
 
 ### Email Utilities
 
@@ -46,6 +47,13 @@
 - [Transmit](https://panic.com/transmit/ "Transmit") - ftp client
 - [Cyberduck](https://cyberduck.io/ "Cyberduck") - ftp client
 
+### Developers
+
+- [Fabric](https://fabric.io/ "Fabric")
+- [Countly](http://count.ly "Countly")
+- [Parse](https://parse.com/ "Parse")
+
 ### Others
-- [behance](https://itunes.apple.com/us/app/wallpaper-by-behance/id885319628?mt=12 "Wallpaper by Behance") - wallpaper
-- [kuvva](https://www.kuvva.com/mac "Kuvva") - wallpaper
+
+- [Behance](https://itunes.apple.com/us/app/wallpaper-by-behance/id885319628?mt=12 "Wallpaper by Behance") - wallpaper
+- [Kuvva](https://www.kuvva.com/mac "Kuvva") - wallpaper
