@@ -34,6 +34,7 @@
 
 - [Pixelmator](http://www.pixelmator.com/mac/ "Pixelmator")
 - [Sketch](http://bohemiancoding.com/sketch/ "Sketch")
+- [Figma](hhttps://www.figma.com "Figma")
 
 ### Productivity
 
@@ -48,6 +49,8 @@
 ### Writing
 
 - [Ulysses](http://www.ulyssesapp.com/mac/ "Ulysses")
+- [Notion](https://notion.so/ "Notion")
+- [Bear](https://bear.app/ "Bear")
 - [iA Writer](https://itunes.apple.com/us/app/ia-writer-pro/id775737590?mt=12 "iA Writer")
 - [Day One](https://itunes.apple.com/us/app/day-one/id422304217?mt=12 "Day One")
 
